@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "name": "Chalet",
+    "photo": "localhost:3000/images/maps/chalet",
+    "description": "",
+    "country": "France",
+    "country_flag": "localhost:3000/images/flags/france",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": null,
+    "rework_operation": null,
+    "rework_season": null,
+    "playlists": ["Newcomer","Casual", "Ranked"],
+    "hatches": 6,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Master Bedroom", "Office"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Bar", "Gaming Room"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Dining Room", "Kitchen"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Wine Cellar", "Snowmobile Garage"]
+      }
+    ],
+    "spawns": [
+        "Campfire",
+        "Cliffside",
+        "Lakeside",
+        "Front yard"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bank",
+    "photo": "localhost:3000/images/maps/bank",
+    "description": "",
+    "country": "United States",
+    "country_flag": "localhost:3000/images/flags/usa",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": "07-09-2021",
+    "rework_operation": "Crystal Guard",
+    "rework_season": null,
+    "playlists": ["Newcomer","Casual", "Ranked"],
+    "hatches": 8,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["CEO Office", "Executive Lounge"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Staff Room", "Open Area"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Teller's Office", "Archives"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Lockers", "CCTV Room"]
+      }
+    ],
+    "spawns": [
+        "Boulevard",
+        "Jewelry Front",
+        "Back Alley"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Border",
+    "photo": "localhost:3000/images/maps/border",
+    "description": "",
+    "country": "Middle East",
+    "country_flag": "localhost:3000/images/flags/iran",
+    "competitive": true,
+    "season_release": null,
+    "operation_release": "Dust Line",
+    "data_release": "10-05-2016",
+    "rework_data": "16-03-2021",
+    "rework_operation": "Crimson Heist",
+    "rework_season": null,
+    "playlists": ["Casual", "Ranked"],
+    "hatches": 5,
+    "floors": 2,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Armory Lockers", "Archives"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Supply Room", "Customs Inspection"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Workshop", "Ventilation Room"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Bathroom", "Tellers"]
+      }
+    ],
+    "spawns": [
+        "East Vehicle Entrance",
+        "Valley",
+        "West Vehicle Exit"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Clubhouse",
+    "photo": "localhost:3000/images/maps/clubhouse",
+    "description": "",
+    "country": "Germany",
+    "country_flag": "localhost:3000/images/flags/germany",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": "07-06-2018",
+    "rework_operation": "Para Bellum",
+    "rework_season": null,
+    "playlists": ["Casual", "Ranked"],
+    "hatches": 7,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Bedroom", "Gym"]
+      },
+      {
+        "floor": 2,
+        "rooms": ["Cash Room", "CCTV Room"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Bar", "Stock Room"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Church", "Arsenal Room"]
+      }
+    ],
+    "spawns": [
+        "Main Entrance",
+        "Shipping Docks",
+        "Warehouse",
+        "Construction Site"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Consulate",
+    "photo": "localhost:3000/images/maps/consulate",
+    "description": "",
+    "country": "Ivory Coast",
+    "country_flag": "localhost:3000/images/flags/ivory_coast",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": "30-05-2023",
+    "rework_operation": "Dread Factor",
+    "rework_season": null,
+    "playlists": ["Newcomer","Casual", "Ranked"],
+    "hatches": 9,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Meeting Room", "Consulate Office"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Press Room", "Lobby"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Archives", "Tellers"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Cafeteria", "Garage"]
+      }
+    ],
+    "spawns": [
+        "Riot Barricade",
+        "Police Line",
+        "Gas Station",
+        "Side Entrance"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kafe Dostoyevsky",
+    "photo": "localhost:3000/images/maps/kafe",
+    "description": "",
+    "country": "Russia",
+    "country_flag": "localhost:3000/images/flags/russia",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": "11-06-2019",
+    "rework_operation": "Phantom Sight",
+    "rework_season": null,
+    "playlists": ["Casual", "Ranked"],
+    "hatches": 6,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 3,
+        "rooms": ["Cocktail Lounge", "Bar"]
+      },
+      {
+        "floor": 2,
+        "rooms": ["Fireplace Hall", "Mining Room"]
+      },
+      {
+        "floor": 2,
+        "rooms": ["Reading Room", "Fireplace Hall"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Kitchen Service", "Kitchen Cooking"]
+      }
+    ],
+    "spawns": [
+        "River Docks",
+        "Christmas Market",
+        "Park"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nighthaven Labs",
+    "photo": "localhost:3000/images/maps/labs",
+    "description": "",
+    "country": "Singapore",
+    "country_flag": "localhost:3000/images/flags/singapore",
+    "competitive": true,
+    "season_release": null,
+    "operation_release": "Solar Raid",
+    "data_release": "06-12-2022",
+    "rework_data": null,
+    "rework_operation": null,
+    "rework_season": null,
+    "playlists": ["Casual", "Unranked", "Ranked"],
+    "hatches": null,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Command", "Server"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Control", "Storage"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Kitchen", "Cafeteria"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Tank", "Assembly"]
+      }
+    ],
+    "spawns": [
+
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Oregon",
+    "photo": "localhost:3000/images/maps/oregon",
+    "description": "",
+    "country": "United States",
+    "country_flag": "localhost:3000/images/flags/usa",
+    "competitive": true,
+    "season_release": "0",
+    "operation_release": null,
+    "data_release": "01-12-2015",
+    "rework_data": "10-03-2020",
+    "rework_operation": "Void Edge",
+    "rework_season": null,
+    "playlists": ["Casual", "Ranked"],
+    "hatches": 6,
+    "floors": 3,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Kids' Dorms", "Dorms Main Hall"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Kitchen", "Dining Hall"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Meeting", "Kitchen"]
+      },
+      {
+        "floor": 0,
+        "rooms": ["Laundry Room", "Supply Room"]
+      }
+    ],
+    "spawns": [
+        "Junkyard",
+        "Street",
+        "Construction Site"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Skyscraper",
+    "photo": "localhost:3000/images/maps/skyscraper",
+    "description": "",
+    "country": "Japan",
+    "country_flag": "localhost:3000/images/flags/japan",
+    "competitive": true,
+    "season_release": 4,
+    "operation_release": "Red Crow",
+    "data_release": "17-11-2016",
+    "rework_data": "01-12-2020",
+    "rework_operation": "Neon Dawn",
+    "rework_season": null,
+    "playlists": ["Casual", "Ranked"],
+    "hatches": 2,
+    "floors": 2,
+    "bombsites": [
+      {
+        "floor": 2,
+        "rooms": ["Tea Room", "Karaoke"]
+      },
+      {
+        "floor": 2,
+        "rooms": ["Work Office", "Exhibition"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["BBQ", "Kitchen"]
+      },
+      {
+        "floor": 1,
+        "rooms": ["Bedroom", "Bathroom"]
+      }
+    ],
+    "spawns": [
+        "Helipad",
+        "Tower",
+        "Ventilation Units"
+    ]
+  }
+]
