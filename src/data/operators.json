@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "operator": "ASH",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/ash",
+        "full_body": "localhost:3000/images/body/ash",
+        "real_name": "Eliza Cohen",
+        "birth_date": "December 24",
+        "birth_place": "Israel",
+        "birth_flag":  "localhost:3000/images/flags/israel",
+        "age": 33,
+        "height": 170,
+        "weight": 63,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "FBI SWAT",
+        "organization_country": "United States",
+        "organization_flag": "localhost:3000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["R4-C", "G36C"],
+                "secondary": ["M45 MEUSOC", "5.7 USG"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Breaching Rounds",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 2,
+        "operator": "THERMITE",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/thermite",
+        "full_body": "localhost:3000/images/body/thermite",
+        "real_name": "Jordan Trace",
+        "birth_date": "March 14",
+        "birth_place": "United States",
+        "birth_flag":  "localhost:3000/images/flags/israel",
+        "age": 35,
+        "height": 178,
+        "weight": 80,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "FBI SWAT",
+        "organization_country": "United States",
+        "organization_flag": "localhost:3000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["M1014", "556xi"],
+                "secondary": ["M45 MEUSOC", "5.7 USG"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Exothermic Charge",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 3,
+        "operator": "SLEDGE",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/sledge",
+        "full_body": "localhost:3000/images/body/sledge",
+        "real_name": "Seamus Cowden",
+        "birth_date": "April 2",
+        "birth_place": "Scotland",
+        "birth_flag":  "localhost:3000/images/flags/uk",
+        "age": 35,
+        "height": 192,
+        "weight": 95,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SAS",
+        "organization_country": "United Kingdom",
+        "organization_flag": "localhost:3000/images/flags/uk",
+        "weapons": [
+            {
+                "primary": ["M590A1", "L85A2"],
+                "secondary": ["P226 Mk 25"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Tactical Breaching Hammer",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 4,
+        "operator": "THATCHER",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/thatcher",
+        "full_body": "localhost:3000/images/body/thatcher",
+        "real_name": "Mike Baker",
+        "birth_date": "June 22",
+        "birth_place": "England",
+        "birth_flag":  "localhost:3000/images/flags/uk",
+        "age": 56,
+        "height": 180,
+        "weight": 72,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SAS",
+        "organization_country": "United Kingdom",
+        "organization_flag": "localhost:3000/images/flags/uk",
+        "weapons": [
+            {
+                "primary": ["AR33", "L85A2","M590A1"],
+                "secondary": ["P226 Mk 25"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "EMP Grenade",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 5,
+        "operator": "TWITCH",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/twitch",
+        "full_body": "localhost:3000/images/body/twitch",
+        "real_name": "Emmanuelle Pichon",
+        "birth_date": "October 12",
+        "birth_place": "France",
+        "birth_flag":  "localhost:3000/images/flags/france",
+        "age": 28,
+        "height": 168,
+        "weight": 58,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GIGN",
+        "organization_country": "France",
+        "organization_flag": "localhost:3000/images/flags/france",
+        "weapons": [
+            {
+                "primary": ["F2", "417", "SG-CQB"],
+                "secondary": ["P9", "LFP586"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Shock Drone",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 6,
+        "operator": "MONTAGNE",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/montagne",
+        "full_body": "localhost:3000/images/body/montagne",
+        "real_name": "Gilles Touré",
+        "birth_date": "October 11",
+        "birth_place": "France",
+        "birth_flag":  "localhost:3000/images/flags/france",
+        "age": 48,
+        "height": 190,
+        "weight": 90,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GIGN",
+        "organization_country": "France",
+        "organization_flag": "localhost:3000/images/flags/france",
+        "weapons": [
+            {
+                "primary": ["Extendable Shield"],
+                "secondary": ["P9", "LFP586"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            },
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Extendable Shield",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 7,
+        "operator": "BLITZ",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/blitz",
+        "full_body": "localhost:3000/images/body/blitz",
+        "real_name": "Elias Kötz",
+        "birth_date": "April 2",
+        "birth_place": "Germany",
+        "birth_flag":  "localhost:3000/images/flags/germany",
+        "age": 37,
+        "height": 175,
+        "weight": 75,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GSG 9",
+        "organization_country": "Germany",
+        "organization_flag": "localhost:3000/images/flags/germany",
+        "weapons": [
+            {
+                "primary": ["G52-Tactical Shield"],
+                "secondary": ["P12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "G52-Tactical Shield",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 8,
+        "operator": "IQ",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/iq",
+        "full_body": "localhost:3000/images/body/iq",
+        "real_name": "Monika Weiss",
+        "birth_date": "August 1",
+        "birth_place": "Germany",
+        "birth_flag":  "localhost:3000/images/flags/germany",
+        "age": 38,
+        "height": 175,
+        "weight": 70,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "GSG 9",
+        "organization_country": "Germany",
+        "organization_flag": "localhost:3000/images/flags/germany",
+        "weapons": [
+            {
+                "primary": ["AUG A2", "552 Commando", "G8A1"],
+                "secondary": ["P12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Electronics Detector",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 9,
+        "operator": "GLAZ",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/glaz",
+        "full_body": "localhost:3000/images/body/glaz",
+        "real_name": "Timur Glazkov",
+        "birth_date": "July 2",
+        "birth_place": "Russia",
+        "birth_flag":  "localhost:3000/images/flags/russia",
+        "age": 30,
+        "height": 178,
+        "weight": 79,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "Spetsnaz",
+        "organization_country": "Russia",
+        "organization_flag": "localhost:3000/images/flags/russia",
+        "weapons": [
+            {
+                "primary": ["OTs-03"],
+                "secondary": ["PMM", "GONNE-6", "Bearing 9"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Flip Sight",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 10,
+        "operator": "FUZE",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/fuze",
+        "full_body": "localhost:3000/images/body/fuze",
+        "real_name": "Shuhrat Kessikbayev",
+        "birth_date": "October 12",
+        "birth_place": "Uzbekistan",
+        "birth_flag":  "localhost:3000/images/flags/uzbekistan",
+        "age": 34,
+        "height": 180,
+        "weight": 80,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "Spetsnaz",
+        "organization_country": "Russia",
+        "organization_flag": "localhost:3000/images/flags/russia",
+        "weapons": [
+            {
+                "primary": ["Ballistic Shield", "6P41", "AK-12"],
+                "secondary": ["PMM", "GSh-18"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            },
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Cluster Charge",
+            "quantity": 4
+        }
+    }
+]
