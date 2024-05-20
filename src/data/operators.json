@@ -1,15 +1,17 @@
 [
     {
         "id": 1,
-        "operator": "ASH",
+        "operator": "Ash",
         "position": "attacker",
         "gender": "female",
-        "logo": "localhost:3000/images/operators/ash",
-        "full_body": "localhost:3000/images/body/ash",
+        "logo": "localhost:4000/images/operators/ash",
+        "full_body": "localhost:4000/images/body/ash",
         "real_name": "Eliza Cohen",
         "birth_date": "December 24",
         "birth_place": "Israel",
-        "birth_flag":  "localhost:3000/images/flags/israel",
+        "birth_flag":  "localhost:4000/images/flags/israel",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 33,
         "height": 170,
         "weight": 63,
@@ -17,7 +19,7 @@
         "health_rating": 1,
         "organization": "FBI SWAT",
         "organization_country": "United States",
-        "organization_flag": "localhost:3000/images/flags/usa",
+        "organization_flag": "localhost:4000/images/flags/usa",
         "weapons": [
             {
                 "primary": ["R4-C", "G36C"],
@@ -41,15 +43,17 @@
     },
     {
         "id": 2,
-        "operator": "THERMITE",
+        "operator": "Thermite",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/thermite",
-        "full_body": "localhost:3000/images/body/thermite",
+        "logo": "localhost:4000/images/operators/thermite",
+        "full_body": "localhost:4000/images/body/thermite",
         "real_name": "Jordan Trace",
         "birth_date": "March 14",
         "birth_place": "United States",
-        "birth_flag":  "localhost:3000/images/flags/israel",
+        "birth_flag":  "localhost:4000/images/flags/israel",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 35,
         "height": 178,
         "weight": 80,
@@ -57,7 +61,7 @@
         "health_rating": 2,
         "organization": "FBI SWAT",
         "organization_country": "United States",
-        "organization_flag": "localhost:3000/images/flags/usa",
+        "organization_flag": "localhost:4000/images/flags/usa",
         "weapons": [
             {
                 "primary": ["M1014", "556xi"],
@@ -81,15 +85,17 @@
     },
     {
         "id": 3,
-        "operator": "SLEDGE",
+        "operator": "Sledge",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/sledge",
-        "full_body": "localhost:3000/images/body/sledge",
+        "logo": "localhost:4000/images/operators/sledge",
+        "full_body": "localhost:4000/images/body/sledge",
         "real_name": "Seamus Cowden",
         "birth_date": "April 2",
         "birth_place": "Scotland",
-        "birth_flag":  "localhost:3000/images/flags/uk",
+        "birth_flag":  "localhost:4000/images/flags/uk",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 35,
         "height": 192,
         "weight": 95,
@@ -97,7 +103,7 @@
         "health_rating": 2,
         "organization": "SAS",
         "organization_country": "United Kingdom",
-        "organization_flag": "localhost:3000/images/flags/uk",
+        "organization_flag": "localhost:4000/images/flags/uk",
         "weapons": [
             {
                 "primary": ["M590A1", "L85A2"],
@@ -125,15 +131,17 @@
     },
     {
         "id": 4,
-        "operator": "THATCHER",
+        "operator": "Thatcher",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/thatcher",
-        "full_body": "localhost:3000/images/body/thatcher",
+        "logo": "localhost:4000/images/operators/thatcher",
+        "full_body": "localhost:4000/images/body/thatcher",
         "real_name": "Mike Baker",
         "birth_date": "June 22",
         "birth_place": "England",
-        "birth_flag":  "localhost:3000/images/flags/uk",
+        "birth_flag":  "localhost:4000/images/flags/uk",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 56,
         "height": 180,
         "weight": 72,
@@ -141,7 +149,7 @@
         "health_rating": 2,
         "organization": "SAS",
         "organization_country": "United Kingdom",
-        "organization_flag": "localhost:3000/images/flags/uk",
+        "organization_flag": "localhost:4000/images/flags/uk",
         "weapons": [
             {
                 "primary": ["AR33", "L85A2","M590A1"],
@@ -165,15 +173,17 @@
     },
     {
         "id": 5,
-        "operator": "TWITCH",
+        "operator": "Twitch",
         "position": "attacker",
         "gender": "female",
-        "logo": "localhost:3000/images/operators/twitch",
-        "full_body": "localhost:3000/images/body/twitch",
+        "logo": "localhost:4000/images/operators/twitch",
+        "full_body": "localhost:4000/images/body/twitch",
         "real_name": "Emmanuelle Pichon",
         "birth_date": "October 12",
         "birth_place": "France",
-        "birth_flag":  "localhost:3000/images/flags/france",
+        "birth_flag":  "localhost:4000/images/flags/france",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 28,
         "height": 168,
         "weight": 58,
@@ -181,7 +191,7 @@
         "health_rating": 2,
         "organization": "GIGN",
         "organization_country": "France",
-        "organization_flag": "localhost:3000/images/flags/france",
+        "organization_flag": "localhost:4000/images/flags/france",
         "weapons": [
             {
                 "primary": ["F2", "417", "SG-CQB"],
@@ -205,15 +215,17 @@
     },
     {
         "id": 6,
-        "operator": "MONTAGNE",
+        "operator": "Montagne",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/montagne",
-        "full_body": "localhost:3000/images/body/montagne",
+        "logo": "localhost:4000/images/operators/montagne",
+        "full_body": "localhost:4000/images/body/montagne",
         "real_name": "Gilles Touré",
         "birth_date": "October 11",
         "birth_place": "France",
-        "birth_flag":  "localhost:3000/images/flags/france",
+        "birth_flag":  "localhost:4000/images/flags/france",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 48,
         "height": 190,
         "weight": 90,
@@ -221,7 +233,7 @@
         "health_rating": 3,
         "organization": "GIGN",
         "organization_country": "France",
-        "organization_flag": "localhost:3000/images/flags/france",
+        "organization_flag": "localhost:4000/images/flags/france",
         "weapons": [
             {
                 "primary": ["Extendable Shield"],
@@ -249,15 +261,17 @@
     },
     {
         "id": 7,
-        "operator": "BLITZ",
+        "operator": "Blitz",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/blitz",
-        "full_body": "localhost:3000/images/body/blitz",
+        "logo": "localhost:4000/images/operators/blitz",
+        "full_body": "localhost:4000/images/body/blitz",
         "real_name": "Elias Kötz",
         "birth_date": "April 2",
         "birth_place": "Germany",
-        "birth_flag":  "localhost:3000/images/flags/germany",
+        "birth_flag":  "localhost:4000/images/flags/germany",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 37,
         "height": 175,
         "weight": 75,
@@ -265,7 +279,7 @@
         "health_rating": 2,
         "organization": "GSG 9",
         "organization_country": "Germany",
-        "organization_flag": "localhost:3000/images/flags/germany",
+        "organization_flag": "localhost:4000/images/flags/germany",
         "weapons": [
             {
                 "primary": ["G52-Tactical Shield"],
@@ -289,15 +303,17 @@
     },
     {
         "id": 8,
-        "operator": "IQ",
+        "operator": "Iq",
         "position": "attacker",
         "gender": "female",
-        "logo": "localhost:3000/images/operators/iq",
-        "full_body": "localhost:3000/images/body/iq",
+        "logo": "localhost:4000/images/operators/iq",
+        "full_body": "localhost:4000/images/body/iq",
         "real_name": "Monika Weiss",
         "birth_date": "August 1",
         "birth_place": "Germany",
-        "birth_flag":  "localhost:3000/images/flags/germany",
+        "birth_flag":  "localhost:4000/images/flags/germany",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 38,
         "height": 175,
         "weight": 70,
@@ -305,7 +321,7 @@
         "health_rating": 1,
         "organization": "GSG 9",
         "organization_country": "Germany",
-        "organization_flag": "localhost:3000/images/flags/germany",
+        "organization_flag": "localhost:4000/images/flags/germany",
         "weapons": [
             {
                 "primary": ["AUG A2", "552 Commando", "G8A1"],
@@ -333,15 +349,17 @@
     },
     {
         "id": 9,
-        "operator": "GLAZ",
+        "operator": "Glaz",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/glaz",
-        "full_body": "localhost:3000/images/body/glaz",
+        "logo": "localhost:4000/images/operators/glaz",
+        "full_body": "localhost:4000/images/body/glaz",
         "real_name": "Timur Glazkov",
         "birth_date": "July 2",
         "birth_place": "Russia",
-        "birth_flag":  "localhost:3000/images/flags/russia",
+        "birth_flag":  "localhost:4000/images/flags/russia",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 30,
         "height": 178,
         "weight": 79,
@@ -349,7 +367,7 @@
         "health_rating": 3,
         "organization": "Spetsnaz",
         "organization_country": "Russia",
-        "organization_flag": "localhost:3000/images/flags/russia",
+        "organization_flag": "localhost:4000/images/flags/russia",
         "weapons": [
             {
                 "primary": ["OTs-03"],
@@ -377,15 +395,17 @@
     },
     {
         "id": 10,
-        "operator": "FUZE",
+        "operator": "Fuze",
         "position": "attacker",
         "gender": "male",
-        "logo": "localhost:3000/images/operators/fuze",
-        "full_body": "localhost:3000/images/body/fuze",
+        "logo": "localhost:4000/images/operators/fuze",
+        "full_body": "localhost:4000/images/body/fuze",
         "real_name": "Shuhrat Kessikbayev",
         "birth_date": "October 12",
         "birth_place": "Uzbekistan",
-        "birth_flag":  "localhost:3000/images/flags/uzbekistan",
+        "birth_flag":  "localhost:4000/images/flags/uzbekistan",
+        "season_release": 0,
+        "operation_release": "Game Launch",
         "age": 34,
         "height": 180,
         "weight": 80,
@@ -393,7 +413,7 @@
         "health_rating": 3,
         "organization": "Spetsnaz",
         "organization_country": "Russia",
-        "organization_flag": "localhost:3000/images/flags/russia",
+        "organization_flag": "localhost:4000/images/flags/russia",
         "weapons": [
             {
                 "primary": ["Ballistic Shield", "6P41", "AK-12"],
@@ -418,5 +438,781 @@
             "name": "Cluster Charge",
             "quantity": 4
         }
-    }
+    },
+    {
+        "id": 11,
+        "operator": "Jäger",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/jager",
+        "full_body": "localhost:4000/images/body/jager",
+        "real_name": "Marius Streicher",
+        "birth_date": "March 9",
+        "birth_place": "Germany",
+        "birth_flag": "localhost:4000/images/flags/germany",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 39,
+        "height": 180,
+        "weight": 64,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GSG 9",
+        "organization_country": "Germany",
+        "organization_flag": "localhost:4000/images/flags/germany",
+        "weapons": [
+            {
+                "primary": ["M870", "416-C Carbine"],
+                "secondary": ["P12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Active Defense System",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 12,
+        "operator": "Bandit",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/bandit",
+        "full_body": "localhost:4000/images/body/bandit",
+        "real_name": "Dominic Brunsmeier",
+        "birth_date": "August 13",
+        "birth_place": "Germany",
+        "birth_flag": "localhost:4000/images/flags/germany",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 42,
+        "height": 180,
+        "weight": 68,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "GSG 9",
+        "organization_country": "Germany",
+        "organization_flag": "localhost:4000/images/flags/germany",
+        "weapons": [
+            {
+                "primary": ["MP7", "M870"],
+                "secondary": ["P12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Crude Electrical Device",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 13,
+        "operator": "Rook",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/rook",
+        "full_body": "localhost:4000/images/body/rook",
+        "real_name": "Julien Nizan",
+        "birth_date": "January 6",
+        "birth_place": "France",
+        "birth_flag": "localhost:4000/images/flags/france",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 27,
+        "height": 185,
+        "weight": 95,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GIGN",
+        "organization_country": "France",
+        "organization_flag": "localhost:4000/images/flags/france",
+        "weapons": [
+            {
+                "primary": ["MP5", "P90", "SG-CQB"],
+                "secondary": ["P9", "LFP586"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Armor Pack",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 14,
+        "operator": "Doc",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/doc",
+        "full_body": "localhost:4000/images/body/doc",
+        "real_name": "Gustave Kateb",
+        "birth_date": "September 16",
+        "birth_place": "France",
+        "birth_flag": "localhost:4000/images/flags/france",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 39,
+        "height": 177,
+        "weight": 74,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GIGN",
+        "organization_country": "France",
+        "organization_flag": "localhost:4000/images/flags/france",
+        "weapons": [
+            {
+                "primary": ["MP5", "P90", "SG-CQB"],
+                "secondary": ["P9", "LFP586", "Bailiff 410"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Stim Pistol",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 15,
+        "operator": "Pulse",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/pulse",
+        "full_body": "localhost:4000/images/body/pulse",
+        "real_name": "Jack Estrada",
+        "birth_date": "October 11",
+        "birth_place": "United States",
+        "birth_flag": "localhost:4000/images/flags/usa",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 32,
+        "height": 188,
+        "weight": 85,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "FBI SWAT",
+        "organization_country": "United States",
+        "organization_flag": "localhost:4000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["UMP45", "M1014"],
+                "secondary": ["M45 MEUSOC", "5.7 USG"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            },
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Heartbeat Sensor",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 16,
+        "operator": "Castle",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/castle",
+        "full_body": "localhost:4000/images/body/castle",
+        "real_name": "Miles Campbell",
+        "birth_date": "September 20",
+        "birth_place": "United States",
+        "birth_flag": "localhost:4000/images/flags/usa",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 36,
+        "height": 185,
+        "weight": 86,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "FBI SWAT",
+        "organization_country": "United States",
+        "organization_flag": "localhost:4000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["UMP45", "M1014"],
+                "secondary": ["5.7 USG", "Super Shorty"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            },
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Armor Panel",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 17,
+        "operator": "Smoke",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/smoke",
+        "full_body": "localhost:4000/images/body/smoke",
+        "real_name": "James Porter",
+        "birth_date": "May 14",
+        "birth_place": "England",
+        "birth_flag": "localhost:4000/images/flags/uk",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 36,
+        "height": 173,
+        "weight": 70,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SAS",
+        "organization_country": "United Kingdom",
+        "organization_flag": "localhost:4000/images/flags/uk",
+        "weapons": [
+            {
+                "primary": ["M590A1", "FMG-9"],
+                "secondary": ["P226 Mk 25", "SMG-11"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Proximity Alarm",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Gas Grenade",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 18,
+        "operator": "Mute",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/mute",
+        "full_body": "localhost:4000/images/body/mute",
+        "real_name": "Mark Chandar",
+        "birth_date": "October 11",
+        "birth_place": "England",
+        "birth_flag": "localhost:4000/images/flags/uk",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 25,
+        "height": 180,
+        "weight": 80,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "SAS",
+        "organization_country": "United Kingdom",
+        "organization_flag": "localhost:4000/images/flags/uk",
+        "weapons": [
+            {
+                "primary": ["MP5K", "M590A1"],
+                "secondary": ["P226 Mk 25", "SMG-11"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Signal Disruptor",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 19,
+        "operator": "Kapkan",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/kapkan",
+        "full_body": "localhost:4000/images/body/kapkan",
+        "real_name": "Maxim Basuda",
+        "birth_date": "May 14",
+        "birth_place": "Russia",
+        "birth_flag": "localhost:4000/images/flags/russia",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 38,
+        "height": 180,
+        "weight": 80,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Spetsnaz",
+        "organization_country": "Russia",
+        "organization_flag": "localhost:4000/images/flags/russia",
+        "weapons": [
+            {
+                "primary": ["9x19VSN", "SASG-12"],
+                "secondary": ["PMM", "GSh-18"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Entry Denial Device",
+            "quantity": 5
+        }
+    },
+    {
+        "id": 20,
+        "operator": "Tachanka",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/tachanka",
+        "full_body": "localhost:4000/images/body/tachanka",
+        "real_name": "Alexsandr Senaviev",
+        "birth_date": "November 3",
+        "birth_place": "Russia",
+        "birth_flag": "localhost:4000/images/flags/russia",
+        "season_release": 0,
+        "operation_release": "Game Launch",
+        "age": 48,
+        "height": 183,
+        "weight": 86,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "Spetsnaz",
+        "organization_country": "Russia",
+        "organization_flag": "localhost:4000/images/flags/russia",
+        "weapons": [
+            {
+                "primary": ["DP-27", "9x19VSN"],
+                "secondary": ["PMM", "GSh-18", "Bearing 9"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Shumikha Launcher",
+            "quantity": 20
+        }
+    },
+    {
+        "id": 21,
+        "operator": "Buck",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/buck",
+        "full_body": "localhost:4000/images/body/buck",
+        "real_name": "Sebastien Côté",
+        "birth_date": "August 20",
+        "birth_place": "Canada",
+        "birth_flag": "localhost:4000/images/flags/canada",
+        "season_release": 1,
+        "operation_release": "Black Ice",
+        "age": 36,
+        "height": 178,
+        "weight": 78,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "JTF2",
+        "organization_country": "Canada",
+        "organization_flag": "localhost:4000/images/flags/canada",
+        "weapons": [
+            {
+                "primary": ["C8-SFW", "CAMRS"],
+                "secondary": ["Mk1 9mm", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Skeleton Key",
+            "quantity": 36
+        }
+    },
+    {
+        "id": 22,
+        "operator": "Frost",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:4000/images/operators/frost",
+        "full_body": "localhost:4000/images/body/frost",
+        "real_name": "Tina Lin Tsang",
+        "birth_date": "May 4",
+        "birth_place": "Vancouver, Canada",
+        "birth_flag": "localhost:4000/images/flags/canada",
+        "season_release": 1,
+        "operation_release": "Black Ice",
+        "age": 32,
+        "height": 172,
+        "weight": 63,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "JTF2",
+        "organization_country": "Canada",
+        "organization_flag": "localhost:4000/images/flags/canada",
+        "weapons": [
+            {
+                "primary": ["Super 90", "9mm C1"],
+                "secondary": ["Mk1 9mm", "ITA12S"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            },
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Welcome Mat",
+            "quantity": 3
+        }
+    },    
+    {
+        "id": 23,
+        "operator": "Blackbeard",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/blackbeard",
+        "full_body": "localhost:4000/images/body/blackbeard",
+        "real_name": "Craig Jenson",
+        "birth_date": "March 12",
+        "birth_place": "United States",
+        "birth_flag": "localhost:4000/images/flags/usa",
+        "season_release": 2,
+        "operation_release": "Dust Line",
+        "age": 32,
+        "height": 180,
+        "weight": 84,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Navy SEALs",
+        "organization_country": "United States",
+        "organization_flag": "localhost:4000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["MK17 CQB", "SR-25"],
+                "secondary": ["D-50"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Rifle-Shield",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 24,
+        "operator": "Valkyrie",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:4000/images/operators/valkyrie",
+        "full_body": "localhost:4000/images/body/valkyrie",
+        "real_name": "Meghan Castellano",
+        "birth_date": "July 21",
+        "birth_place": "United States",
+        "birth_flag": "localhost:4000/images/flags/usa",
+        "season_release": 2,
+        "operation_release": "Dust Line",
+        "age": 31,
+        "height": 170,
+        "weight": 31,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Navy SEALs",
+        "organization_country": "United States",
+        "organization_flag": "localhost:4000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["MPX", "SPAS-12"],
+                "secondary": ["D-50"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Black Eye",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 25,
+        "operator": "Capitão",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/capitao",
+        "full_body": "localhost:4000/images/body/capitao",
+        "real_name": "Vicente Souza",
+        "birth_date": "November 17",
+        "birth_place": "Brazil",
+        "birth_flag": "localhost:4000/images/flags/brazil",
+        "season_release": 3,
+        "operation_release": "Skull Rain",
+        "age": 49,
+        "height": 183,
+        "weight": 86,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "BOPE",
+        "organization_country": "Brazil",
+        "organization_flag": "localhost:4000/images/flags/brazil",
+        "weapons": [
+            {
+                "primary": ["PARA-308", "M249"],
+                "secondary": ["PRB92", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Tactical Crossbow TAC Mk0",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 26,
+        "operator": "Caveira",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:4000/images/operators/caveira",
+        "full_body": "localhost:4000/images/body/caveira",
+        "real_name": "Tainá Pereira",
+        "birth_date": "October 15",
+        "birth_place": "Brazil",
+        "birth_flag": "localhost:4000/images/flags/brazil",
+        "season_release": 3,
+        "operation_release": "Skull Rain",
+        "age": 27,
+        "height": 177,
+        "weight": 72,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "BOPE",
+        "organization_country": "Brazil",
+        "organization_flag": "localhost:4000/images/flags/brazil",
+        "weapons": [
+            {
+                "primary": ["M12", "SPAS-15"],
+                "secondary": ["Luison"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            },
+            {
+                "name":"Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Silent Step",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 27,
+        "operator": "Echo",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:4000/images/operators/echo",
+        "full_body": "localhost:4000/images/body/echo",
+        "real_name": "Masaru Enatsu",
+        "birth_date": "October 31",
+        "birth_place": "Japan",
+        "birth_flag": "localhost:4000/images/flags/japan",
+        "season_release": 4,
+        "operation_release": "Red Crow",
+        "age": 36,
+        "height": 180,
+        "weight": 72,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SAT",
+        "organization_country": "Japan",
+        "organization_flag": "localhost:4000/images/flags/japan",
+        "weapons": [
+            {
+                "primary": ["MP5SD", "Supernova"],
+                "secondary": ["P229", "Bearing 9"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            },
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Yokai Drone",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 28,
+        "operator": "Hibana",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:4000/images/operators/hibana",
+        "full_body": "localhost:4000/images/body/hibana",
+        "real_name": "Yumiko Imagawa",
+        "birth_date": "July 12",
+        "birth_place": "Japan",
+        "birth_flag": "localhost:4000/images/flags/japan",
+        "season_release": 4,
+        "operation_release": "Red Crow",
+        "age": 34,
+        "height": 173,
+        "weight": 57,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "SAT",
+        "organization_country": "Japan",
+        "organization_flag": "localhost:4000/images/flags/japan",
+        "weapons": [
+            {
+                "primary": ["TYPE-89", "Supernova"],
+                "secondary": ["Bearing 9", "P229"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "X-KAIROS",
+            "quantity": 18
+        }
+    }    
 ]
