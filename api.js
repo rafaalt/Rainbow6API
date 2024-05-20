@@ -4,7 +4,7 @@ const fs = require('fs');
 const server = express();
 const allMaps = require('./src/data/maps.json')
 const allOperators = require('./src/data/operators.json')
-const port = 3000
+const port = 4000
 
 server.get('/maps', (req, res) => {
     return res.json(allMaps);
@@ -22,8 +22,36 @@ server.get('/maps/:id', (req, res) => {
 });
 
 server.get('/operators', (req, res) => {
-    return res.json(allOperators);
-})
+    // Pega os parâmetros de query 'limit' e 'page'
+    const limit = parseInt(req.query.limit) || 10; // Define um valor padrão para 'limit'
+    const page = parseInt(req.query.page) || 1; // Define um valor padrão para 'page'
+
+    const startIndex = (page - 1) * limit;
+    const endIndex = startIndex + limit;
+    const totalPages = Math.ceil(allOperators.length / limit)
+
+    const nextPage = page < totalPages ? page + 1 : null
+    const paginatedOperators = allOperators.slice(startIndex, endIndex);
+
+    if (paginatedOperators.length === 0) {
+        return res.status(404).json({ error: 'No operators found' });
+    }
+    // Cria um objeto para a resposta com os operadores paginados e metadados sobre a paginação
+    const response = {
+        page,
+        nextPage,
+        limit,
+        totalOperators: allOperators.length,
+        totalPages,
+        operators: paginatedOperators
+    };
+
+    res.json(response);
+});
+
+server.get('/allOperators', (req, res) => {
+    res.json(allOperators);
+});
 
 server.get('/operators/:id', (req, res) => {
     const opId = req.params.id;
