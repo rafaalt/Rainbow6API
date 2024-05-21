@@ -303,7 +303,7 @@
     },
     {
         "id": 8,
-        "operator": "Iq",
+        "operator": "IQ",
         "position": "attacker",
         "gender": "female",
         "logo": "localhost:4000/images/operators/iq",
@@ -1133,6 +1133,48 @@
     },
     {
         "id": 27,
+        "operator": "Hibana",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:4000/images/operators/hibana",
+        "full_body": "localhost:4000/images/body/hibana",
+        "real_name": "Yumiko Imagawa",
+        "birth_date": "July 12",
+        "birth_place": "Japan",
+        "birth_flag": "localhost:4000/images/flags/japan",
+        "season_release": 4,
+        "operation_release": "Red Crow",
+        "age": 34,
+        "height": 173,
+        "weight": 57,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "SAT",
+        "organization_country": "Japan",
+        "organization_flag": "localhost:4000/images/flags/japan",
+        "weapons": [
+            {
+                "primary": ["TYPE-89", "Supernova"],
+                "secondary": ["Bearing 9", "P229"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "X-KAIROS",
+            "quantity": 18
+        }
+    },
+    {
+        "id": 28,
         "operator": "Echo",
         "position": "defender",
         "gender": "male",
@@ -1174,36 +1216,250 @@
         }
     },
     {
-        "id": 28,
-        "operator": "Hibana",
+        "id": 29,
+        "operator": "Jackal",
         "position": "attacker",
-        "gender": "female",
-        "logo": "localhost:4000/images/operators/hibana",
-        "full_body": "localhost:4000/images/body/hibana",
-        "real_name": "Yumiko Imagawa",
-        "birth_date": "July 12",
-        "birth_place": "Japan",
-        "birth_flag": "localhost:4000/images/flags/japan",
-        "season_release": 4,
-        "operation_release": "Red Crow",
-        "age": 34,
-        "height": 173,
-        "weight": 57,
-        "speed_rating": 3,
-        "health_rating": 1,
-        "organization": "SAT",
-        "organization_country": "Japan",
-        "organization_flag": "localhost:4000/images/flags/japan",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/jackal",
+        "full_body": "localhost:3000/images/body/jackal",
+        "real_name": "Ryad Ramírez Al-Hassar",
+        "birth_date": "February 29",
+        "birth_place": "Spain",
+        "birth_flag": "localhost:3000/images/flags/spain",
+        "season_release": 5,
+        "operation_release": "Velvet Shell",
+        "age": 49,
+        "height": 190,
+        "weight": 78,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GEO",
+        "organization_country": "Spain",
+        "organization_flag": "localhost:3000/images/flags/spain",
         "weapons": [
             {
-                "primary": ["TYPE-89", "Supernova"],
-                "secondary": ["Bearing 9", "P229"]
+                "primary": ["C7E", "PDW9", "ITA12L"],
+                "secondary": ["USP40", "ITA12S"]
             }
         ],
         "gadgets": [
             {
-                "name": "Stun Grenade",
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Eyenox Model III",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 30,
+        "operator": "Mira",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/mira",
+        "full_body": "localhost:3000/images/body/mira",
+        "real_name": "Elena María Álvarez",
+        "birth_date": "November 18",
+        "birth_place": "Spain",
+        "birth_flag": "localhost:3000/images/flags/spain",
+        "season_release": 5,
+        "operation_release": "Velvet Shell",
+        "age": 39,
+        "height": 165,
+        "weight": 60,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GEO",
+        "organization_country": "Spain",
+        "organization_flag": "localhost:3000/images/flags/spain",
+        "weapons": [
+            {
+                "primary": ["Vector .45 ACP", "ITA12L"],
+                "secondary": ["USP40", "ITA12S"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            },
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Black Mirror",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 31,
+        "operator": "Ying",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/ying",
+        "full_body": "localhost:3000/images/body/ying",
+        "real_name": "Siu Mei Lin",
+        "birth_date": "May 12",
+        "birth_place": "Hong Kong",
+        "birth_flag": "localhost:3000/images/flags/hong_kong",
+        "season_release": 7,
+        "operation_release": "Blood Orchid",
+        "age": 33,
+        "height": 160,
+        "weight": 52,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SDU",
+        "organization_country": "Hong Kong",
+        "organization_flag": "localhost:3000/images/flags/hong_kong",
+        "weapons": [
+            {
+                "primary": ["T-95 LSW", "SIX12"],
+                "secondary": ["Q-929"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Candela",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 32,
+        "operator": "Lesion",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/lesion",
+        "full_body": "localhost:3000/images/body/lesion",
+        "real_name": "Liu Tze Long",
+        "birth_date": "July 2",
+        "birth_place": "Hong Kong",
+        "birth_flag": "localhost:3000/images/flags/hong_kong",
+        "season_release": 7,
+        "operation_release": "Blood Orchid",
+        "age": 44,
+        "height": 174,
+        "weight": 82,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SDU",
+        "organization_country": "Hong Kong",
+        "organization_flag": "localhost:3000/images/flags/hong_kong",
+        "weapons": [
+            {
+                "primary": ["SIX12 SD", "T-5 SMG"],
+                "secondary": ["Q-929", "Super Shorty"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Observation Blocker",
                 "quantity": 3
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "GU Mine",
+            "quantity": 9
+        }
+    },
+    {
+        "id": 33,
+        "operator": "Ela",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/ela",
+        "full_body": "localhost:3000/images/body/ela",
+        "real_name": "Elżbieta Bosak",
+        "birth_date": "November 8",
+        "birth_place": "Poland",
+        "birth_flag": "localhost:3000/images/flags/poland",
+        "season_release": 7,
+        "operation_release": "Blood Orchid",
+        "age": 31,
+        "height": 173,
+        "weight": 68,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "GROM",
+        "organization_country": "Poland",
+        "organization_flag": "localhost:3000/images/flags/poland",
+        "weapons": [
+            {
+                "primary": ["Scorpion EVO 3 A1", "FO-12"],
+                "secondary": ["RG15"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            },
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Grzmot Mine",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 34,
+        "operator": "Zofia",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/zofia",
+        "full_body": "localhost:3000/images/body/zofia",
+        "real_name": "Zofia Bosak",
+        "birth_date": "January 28",
+        "birth_place": "Poland",
+        "birth_flag": "localhost:3000/images/flags/poland",
+        "season_release": 8,
+        "operation_release": "White Noise",
+        "age": 36,
+        "height": 179,
+        "weight": 72,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GROM",
+        "organization_country": "Poland",
+        "organization_flag": "localhost:3000/images/flags/poland",
+        "weapons": [
+            {
+                "primary": ["LMG-E", "M762"],
+                "secondary": ["RG15"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
             },
             {
                 "name": "Breach Charge",
@@ -1211,8 +1467,96 @@
             }
         ],
         "ability": {
-            "name": "X-KAIROS",
-            "quantity": 18
+            "name": "KS79 Lifeline",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 35,
+        "operator": "Dokkaebi",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/dokkaebi",
+        "full_body": "localhost:3000/images/body/dokkaebi",
+        "real_name": "Grace Nam",
+        "birth_date": "February 2",
+        "birth_place": "South Korea",
+        "birth_flag": "localhost:3000/images/flags/south_korea",
+        "season_release": 8,
+        "operation_release": "White Noise",
+        "age": 29,
+        "height": 169,
+        "weight": 62,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "707th SMB",
+        "organization_country": "South Korea",
+        "organization_flag": "localhost:3000/images/flags/south_korea",
+        "weapons": [
+            {
+                "primary": ["Mk 14 EBR", "BOSG.12.2"],
+                "secondary": ["C75 Auto", "SMG-12", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Logic Bomb",
+            "quantity": 2
+        }
+    },
+    {
+        "id": 36,
+        "operator": "Vigil",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/vigil",
+        "full_body": "localhost:3000/images/body/vigil",
+        "real_name": "Chul Kyung Hwa",
+        "birth_date": "January 17",
+        "birth_place": "North Korea",
+        "birth_flag": "localhost:3000/images/flags/north_korea",
+        "season_release": 8,
+        "operation_release": "White Noise",
+        "age": 34,
+        "height": 173,
+        "weight": 73,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "707th SMB",
+        "organization_country": "South Korea",
+        "organization_flag": "localhost:3000/images/flags/south_korea",
+        "weapons": [
+            {
+                "primary": ["K1A", "BOSG.12.2"],
+                "secondary": ["C75 Auto", "SMG-12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "ERC-7",
+            "quantity": 1
         }
     }    
 ]
