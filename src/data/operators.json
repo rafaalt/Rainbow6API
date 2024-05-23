@@ -1558,5 +1558,357 @@
             "name": "ERC-7",
             "quantity": 1
         }
-    }    
+    },
+    {
+        "id": 37,
+        "operator": "Finka",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/finka",
+        "full_body": "localhost:3000/images/body/finka",
+        "real_name": "Lera Melnikova",
+        "birth_date": "June 7",
+        "birth_place": "Belarus",
+        "birth_flag": "localhost:3000/images/flags/belarus",
+        "season_release": 9,
+        "operation_release": "Chimera",
+        "age": 27,
+        "height": 171,
+        "weight": 68,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Spetsnaz",
+        "organization_country": "Russia",
+        "organization_flag": "localhost:3000/images/flags/russia",
+        "weapons": [
+            {
+                "primary": ["Spear .308", "6P41", "SASG-12"],
+                "secondary": ["PMM", "GSh-18"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Adrenal Surge",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 38,
+        "operator": "Lion",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/lion",
+        "full_body": "localhost:3000/images/body/lion",
+        "real_name": "Olivier Flament",
+        "birth_date": "August 29",
+        "birth_place": "France",
+        "birth_flag": "localhost:3000/images/flags/france",
+        "season_release": 9,
+        "operation_release": "Chimera",
+        "age": 31,
+        "height": 185,
+        "weight": 87,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GIGN",
+        "organization_country": "France",
+        "organization_flag": "localhost:3000/images/flags/france",
+        "weapons": [
+            {
+                "primary": ["V308", "417", "SG-CQB"],
+                "secondary": ["P9", "LFP586"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "EE-ONE-D",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 39,
+        "operator": "Alibi",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/alibi",
+        "full_body": "localhost:3000/images/body/alibi",
+        "real_name": "Aria de Luca",
+        "birth_date": "December 15",
+        "birth_place": "Libya",
+        "birth_flag": "localhost:3000/images/flags/libya",
+        "season_release": 10,
+        "operation_release": "Para Bellum",
+        "age": 37,
+        "height": 171,
+        "weight": 63,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "GIS",
+        "organization_country": "Italy",
+        "organization_flag": "localhost:3000/images/flags/italy",
+        "weapons": [
+            {
+                "primary": ["Mx4 Storm", "ACS12"],
+                "secondary": ["Keratos .357", "Bailiff 410"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Prisma",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 40,
+        "operator": "Maestro",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/maestro",
+        "full_body": "localhost:3000/images/body/maestro",
+        "real_name": "Adriano Martello",
+        "birth_date": "April 13",
+        "birth_place": "Italy",
+        "birth_flag": "localhost:3000/images/flags/italy",
+        "season_release": 10,
+        "operation_release": "Para Bellum",
+        "age": 45,
+        "height": 185,
+        "weight": 87,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GIS",
+        "organization_country": "Italy",
+        "organization_flag": "localhost:3000/images/flags/italy",
+        "weapons": [
+            {
+                "primary": ["ALDA 5.56", "ACS12"],
+                "secondary": ["Keratos .357", "Bailiff 410"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Evil Eye",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 41,
+        "operator": "Maverick",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/maverick",
+        "full_body": "localhost:3000/images/body/maverick",
+        "real_name": "Erik Thorn",
+        "birth_date": "April 20",
+        "birth_place": "United States",
+        "birth_flag": "localhost:3000/images/flags/usa",
+        "season_release": 11,
+        "operation_release": "Grim Sky",
+        "age": 36,
+        "height": 180,
+        "weight": 82,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "Delta Force",
+        "organization_country": "United States",
+        "organization_flag": "localhost:3000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["M4", "AR-15.50"],
+                "secondary": ["1911 TACOPS"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Breaching Torch",
+            "quantity": 6
+        }
+    },
+    {
+        "id": 42,
+        "operator": "Clash",
+        "position": "defender",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/clash",
+        "full_body": "localhost:3000/images/body/clash",
+        "real_name": "Morowa Evans",
+        "birth_date": "June 7",
+        "birth_place": "United Kingdom",
+        "birth_flag": "localhost:3000/images/flags/uk",
+        "season_release": 11,
+        "operation_release": "Grim Sky",
+        "age": 35,
+        "height": 179,
+        "weight": 73,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "MPS",
+        "organization_country": "United Kingdom",
+        "organization_flag": "localhost:3000/images/flags/uk",
+        "weapons": [
+            {
+                "primary": ["CCE Shield"],
+                "secondary": ["P-10C", "SPSMG9", "Super Shorty"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "CCE Shield",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 43,
+        "operator": "Nomad",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/nomad",
+        "full_body": "localhost:3000/images/body/nomad",
+        "real_name": "Sanaa El Maktoub",
+        "birth_date": "July 27",
+        "birth_place": "Morocco",
+        "birth_flag": "localhost:3000/images/flags/morocco",
+        "season_release": 12,
+        "operation_release": "Wind Bastion",
+        "age": 39,
+        "height": 171,
+        "weight": 63,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GIGR",
+        "organization_country": "Morocco",
+        "organization_flag": "localhost:3000/images/flags/morocco",
+        "weapons": [
+            {
+                "primary": ["AK-74M", "ARX200"],
+                "secondary": [".44 Mag Semi-Auto", "PRB92"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Airjab Launcher",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 44,
+        "operator": "Kaid",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/kaid",
+        "full_body": "localhost:3000/images/body/kaid",
+        "real_name": "Jalal El Fassi",
+        "birth_date": "June 26",
+        "birth_place": "Morocco",
+        "birth_flag": "localhost:3000/images/flags/morocco",
+        "season_release": 12,
+        "operation_release": "Wind Bastion",
+        "age": 58,
+        "height": 195,
+        "weight": 98,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "GIGR",
+        "organization_country": "Morocco",
+        "organization_flag": "localhost:3000/images/flags/morocco",
+        "weapons": [
+            {
+                "primary": ["AUG A3", "TCSG12"],
+                "secondary": [".44 Mag Semi-Auto", "LFP586"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "C4",
+                "quantity": 1
+            },
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name":"Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Rtila Electroclaw",
+            "quantity": 2
+        }
+    }  
 ]
