@@ -2262,5 +2262,257 @@
             "name": "Mag-NET",
             "quantity": 6
         }
-    }
+    },
+    {
+        "id": 53,
+        "operator": "Iana",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "http://localhost:4000/images/operators/iana",
+        "full_body": "http://localhost:4000/images/body/iana",
+        "real_name": "Nienke Meijer",
+        "birth_date": "August 27",
+        "birth_place": "Netherlands",
+        "birth_flag": "http://localhost:4000/images/flags/netherlands",
+        "season_release": 17,
+        "operation_release": "Void Edge",
+        "age": 35,
+        "height": 157,
+        "weight": 56,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "REU",
+        "organization_country": "Netherlands",
+        "organization_flag": "http://localhost:4000/images/flags/netherlands",
+        "weapons": [
+            {
+                "primary": ["ARX200", "G36C"],
+                "secondary": ["Mk1 9mm", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Gemini Replicator",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 54,
+        "operator": "Oryx",
+        "position": "defender",
+        "gender": "male",
+        "logo": "http://localhost:4000/images/operators/oryx",
+        "full_body": "http://localhost:4000/images/body/oryx",
+        "real_name": "Saif Al Hadid",
+        "birth_date": "July 3",
+        "birth_place": "Jordan",
+        "birth_flag": "http://localhost:4000/images/flags/jordan",
+        "season_release": 17,
+        "operation_release": "Void Edge",
+        "age": 45,
+        "height": 195,
+        "weight": 130,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "GIGR",
+        "organization_country": "Morocco",
+        "organization_flag": "http://localhost:4000/images/flags/morocco",
+        "weapons": [
+            {
+                "primary": ["SPAS-12", "T-5 SMG"],
+                "secondary": ["Bailiff 410", "USP40"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Remah Dash",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 55,
+        "operator": "Ace",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "http://localhost:4000/images/operators/ace",
+        "full_body": "http://localhost:4000/images/body/ace",
+        "real_name": "Håvard Haugland",
+        "birth_date": "March 15",
+        "birth_place": "Norway",
+        "birth_flag": "http://localhost:4000/images/flags/norway",
+        "season_release": 18,
+        "operation_release": "Steel Wave",
+        "age": 33,
+        "height": 187,
+        "weight": 75,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Nighthaven",
+        "organization_country": "Singapore",
+        "organization_flag": "http://localhost:4000/images/flags/singapore",
+        "weapons": [
+            {
+                "primary": ["AK-12", "M1014"],
+                "secondary": ["P9"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            },
+            {
+                "name": "Claymore",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "S.E.L.M.A. Aqua Breacher",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 56,
+        "operator": "Melusi",
+        "position": "defender",
+        "gender": "female",
+        "logo": "http://localhost:4000/images/operators/melusi",
+        "full_body": "http://localhost:4000/images/body/melusi",
+        "real_name": "Thandiwe Ndlovu",
+        "birth_date": "June 16",
+        "birth_place": "South Africa",
+        "birth_flag": "http://localhost:4000/images/flags/south_africa",
+        "season_release": 18,
+        "operation_release": "Steel Wave",
+        "age": 32,
+        "height": 172,
+        "weight": 68,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "Inkaba Task Force",
+        "organization_country": "South Africa",
+        "organization_flag": "http://localhost:4000/images/flags/south_africa",
+        "weapons": [
+            {
+                "primary": ["MP5", "Super 90"],
+                "secondary": ["RG15"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Banshee Sonic Defense",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 57,
+        "operator": "Zero",
+        "position": "attacker",
+        "gender": "male",
+        "logo": "http://localhost:4000/images/operators/zero",
+        "full_body": "http://localhost:4000/images/body/zero",
+        "real_name": "Samuel Leo Fisher",
+        "birth_date": "August 8",
+        "birth_place": "United States",
+        "birth_flag": "http://localhost:4000/images/flags/usa",
+        "season_release": 19,
+        "operation_release": "Shadow Legacy",
+        "age": 64,
+        "height": 178,
+        "weight": 77,
+        "speed_rating": 3,
+        "health_rating": 1,
+        "organization": "ROS",
+        "organization_country": "United States",
+        "organization_flag": "http://localhost:4000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["SC3000K", "MP7"],
+                "secondary": ["5.7 USG", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Argus Launcher",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 58,
+        "operator": "Aruni",
+        "position": "defender",
+        "gender": "female",
+        "logo": "http://localhost:4000/images/operators/aruni",
+        "full_body": "http://localhost:4000/images/body/aruni",
+        "real_name": "Apha Tawanrong",
+        "birth_date": "August 9",
+        "birth_place": "Thailand",
+        "birth_flag": "http://localhost:4000/images/flags/thailand",
+        "season_release": 20,
+        "operation_release": "Neon Dawn",
+        "age": 42,
+        "height": 160,
+        "weight": 58,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "Nighthaven",
+        "organization_country": "Singapore",
+        "organization_flag": "http://localhost:4000/images/flags/singapore",
+        "weapons": [
+            {
+                "primary": ["P10 RONI", "Mk 14 EBR"],
+                "secondary": ["PRB92"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            },
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Surya Gate",
+            "quantity": 3
+        }
+    } 
 ]
