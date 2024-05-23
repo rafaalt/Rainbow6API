@@ -51,7 +51,7 @@
         "real_name": "Jordan Trace",
         "birth_date": "March 14",
         "birth_place": "United States",
-        "birth_flag":  "localhost:4000/images/flags/israel",
+        "birth_flag":  "localhost:4000/images/flags/usa",
         "season_release": 0,
         "operation_release": "Game Launch",
         "age": 35,
@@ -1910,5 +1910,357 @@
             "name": "Rtila Electroclaw",
             "quantity": 2
         }
-    }  
+    },
+    {
+        "id": 45,
+        "operator": "Gridlock",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/gridlock",
+        "full_body": "localhost:3000/images/body/gridlock",
+        "real_name": "Tori Tallyo Fairous",
+        "birth_date": "August 5",
+        "birth_place": "Australia",
+        "birth_flag": "localhost:3000/images/flags/australia",
+        "season_release": 13,
+        "operation_release": "Burnt Horizon",
+        "age": 36,
+        "height": 177,
+        "weight": 102,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "SASR",
+        "organization_country": "Australia",
+        "organization_flag": "localhost:3000/images/flags/australia",
+        "weapons": [
+            {
+                "primary": ["F90", "M249 SAW"],
+                "secondary": ["Super Shorty", "SDP 9mm"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Smoke Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Trax Stingers",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 46,
+        "operator": "Mozzie",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/mozzie",
+        "full_body": "localhost:3000/images/body/mozzie",
+        "real_name": "Max Goose",
+        "birth_date": "February 15",
+        "birth_place": "Australia",
+        "birth_flag": "localhost:3000/images/flags/australia",
+        "season_release": 13,
+        "operation_release": "Burnt Horizon",
+        "age": 35,
+        "height": 162,
+        "weight": 57,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "SASR",
+        "organization_country": "Australia",
+        "organization_flag": "localhost:3000/images/flags/australia",
+        "weapons": [
+            {
+                "primary": ["Commando 9", "P10 Roni"],
+                "secondary": ["SDP 9mm"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Barbed Wire",
+                "quantity": 2
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            }
+        ],
+        "ability": {
+            "name": "Pest Launcher",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 47,
+        "operator": "Nøkk",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/nokk",
+        "full_body": "localhost:3000/images/body/nokk",
+        "real_name": "Karina Gaarddhøje",
+        "birth_date": "[Confidential]",
+        "birth_place": "Denmark",
+        "birth_flag": "localhost:3000/images/flags/denmark",
+        "season_release": 14,
+        "operation_release": "Phantom Sight",
+        "age": "[Confidential]",
+        "height": 170,
+        "weight": 58,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Jægerkorpset",
+        "organization_country": "Denmark",
+        "organization_flag": "localhost:3000/images/flags/denmark",
+        "weapons": [
+            {
+                "primary": ["FMG-9", "SIX12 SD"],
+                "secondary": ["5.7 USG", "D-50"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Frag Grenade",
+                "quantity": 2
+            },
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            },
+            {
+                "name": "Impact EMP Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "HEL Presence Reduction",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 48,
+        "operator": "Warden",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/warden",
+        "full_body": "localhost:3000/images/body/warden",
+        "real_name": "Collinn McKinley",
+        "birth_date": "March 18",
+        "birth_place": "United States",
+        "birth_flag": "localhost:3000/images/flags/usa",
+        "season_release": 14,
+        "operation_release": "Phantom Sight",
+        "age": 48,
+        "height": 183,
+        "weight": 80,
+        "speed_rating": 1,
+        "health_rating": 3,
+        "organization": "Secret Service",
+        "organization_country": "United States",
+        "organization_flag": "localhost:3000/images/flags/usa",
+        "weapons": [
+            {
+                "primary": ["M590A1", "MPX"],
+                "secondary": ["P-10C", "SMG-12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Deployable Shield",
+                "quantity": 1
+            },
+            {
+                "name": "Nitro Cell",
+                "quantity": 1
+            },
+            {
+                "name": "Observation Blocker",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Glance Smart Glasses",
+            "quantity": 1
+        }
+    },
+    {
+        "id": 49,
+        "operator": "Amaru",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/amaru",
+        "full_body": "localhost:3000/images/body/amaru",
+        "real_name": "Azucena Rocío Quispe",
+        "birth_date": "May 6",
+        "birth_place": "Peru",
+        "birth_flag": "localhost:3000/images/flags/peru",
+        "season_release": 15,
+        "operation_release": "Ember Rise",
+        "age": 48,
+        "height": 189,
+        "weight": 84,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "APCA",
+        "organization_country": "Peru",
+        "organization_flag": "localhost:3000/images/flags/peru",
+        "weapons": [
+            {
+                "primary": ["G8A1", "Supernova"],
+                "secondary": ["SMG-11", "ITA12S", "GONNE-6"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Hard Breach Charge",
+                "quantity": 2
+            },
+            {
+                "name": "Stun Grenade",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "Garra Hook",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 50,
+        "operator": "Goyo",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/goyo",
+        "full_body": "localhost:3000/images/body/goyo",
+        "real_name": "César Ruiz Hernández",
+        "birth_date": "June 20",
+        "birth_place": "Mexico",
+        "birth_flag": "localhost:3000/images/flags/mexico",
+        "season_release": 15,
+        "operation_release": "Ember Rise",
+        "age": 31,
+        "height": 171,
+        "weight": 83,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "FES",
+        "organization_country": "Mexico",
+        "organization_flag": "localhost:3000/images/flags/mexico",
+        "weapons": [
+            {
+                "primary": ["Vector .45 ACP", "TCSG12"],
+                "secondary": ["P229 RC"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            },
+            {
+                "name": "Bulletproof Camera",
+                "quantity": 1
+            },
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Volcán Canister",
+            "quantity": 4
+        }
+    },
+    {
+        "id": 51,
+        "operator": "Kali",
+        "position": "attacker",
+        "gender": "female",
+        "logo": "localhost:3000/images/operators/kali",
+        "full_body": "localhost:3000/images/body/kali",
+        "real_name": "Jaimini Kalimohan Shah",
+        "birth_date": "August 21",
+        "birth_place": "India",
+        "birth_flag": "localhost:3000/images/flags/india",
+        "season_release": 16,
+        "operation_release": "Shifting Tides",
+        "age": 34,
+        "height": 170,
+        "weight": 67,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Nighthaven",
+        "organization_country": "Singapore",
+        "organization_flag": "localhost:3000/images/flags/singapore",
+        "weapons": [
+            {
+                "primary": ["CSRX 300"],
+                "secondary": ["P226 Mk 25", "C75 Auto", "SPSMG9"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Claymore",
+                "quantity": 2
+            },
+            {
+                "name": "Breach Charge",
+                "quantity": 3
+            }
+        ],
+        "ability": {
+            "name": "LV Explosive Lance",
+            "quantity": 3
+        }
+    },
+    {
+        "id": 52,
+        "operator": "Wamai",
+        "position": "defender",
+        "gender": "male",
+        "logo": "localhost:3000/images/operators/wamai",
+        "full_body": "localhost:3000/images/body/wamai",
+        "real_name": "Ngũgĩ Muchoki Furaha",
+        "birth_date": "June 1",
+        "birth_place": "Kenya",
+        "birth_flag": "localhost:3000/images/flags/kenya",
+        "season_release": 16,
+        "operation_release": "Shifting Tides",
+        "age": 28,
+        "height": 187,
+        "weight": 83,
+        "speed_rating": 2,
+        "health_rating": 2,
+        "organization": "Nighthaven",
+        "organization_country": "Singapore",
+        "organization_flag": "localhost:3000/images/flags/singapore",
+        "weapons": [
+            {
+                "primary": ["AUG A2", "MP5K"],
+                "secondary": ["Keratos .357", "P12"]
+            }
+        ],
+        "gadgets": [
+            {
+                "name": "Proximity Alarm",
+                "quantity": 2
+            },
+            {
+                "name": "Impact Grenade",
+                "quantity": 2
+            }
+        ],
+        "ability": {
+            "name": "Mag-NET",
+            "quantity": 6
+        }
+    }
 ]
